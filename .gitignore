@@ -1,2 +1,5 @@
 # IntelliJ project files
 .idea
+
+/credentials.json
+/node_modules/
